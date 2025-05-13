@@ -4,6 +4,8 @@ title: Intellectual Property (IP) and Copyright
 layout: risk
 doc-status: Pre-Draft
 type: RC
+external-risks:
+- Lack of governance policies related to intellectual property: https://airc.nist.gov/airmf-resources/playbook/govern/#govern-6-1
 ---
 
 - Generative AI models often train on datasets that may include copyrighted material.  
